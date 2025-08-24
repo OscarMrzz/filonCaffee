@@ -1,0 +1,66 @@
+[
+  {
+    "id": "001",
+    "nombre": "Cappuccino",
+    "categoria": "Bebidas Calientes",
+    "descripcion": "Café espresso con leche vaporizada y espuma cremosa",
+    "precio": 3.50,
+  "imagen": "/imgs/capuchino.jpg"
+  },
+  {
+    "id": "002",
+    "nombre": "Latte",
+    "categoria": "Bebidas Calientes",
+    "descripcion": "Café espresso con abundante leche vaporizada",
+    "precio": 3.75,
+    "imagen": "/imgs/latte.jpeg"
+  },
+  {
+    "id": "003",
+    "nombre": "Americano",
+    "categoria": "Bebidas Calientes",
+    "descripcion": "Café espresso rebajado con agua caliente",
+    "precio": 2.50,
+    "imagen": "/imgs/americano.webp"
+  },
+  {
+    "id": "004",
+    "nombre": "Espresso",
+    "categoria": "Bebidas Calientes",
+    "descripcion": "Café concentrado de sabor fuerte y aroma intenso",
+    "precio": 2.00,
+    "imagen": "/imgs/Espresso.jpeg"
+  },
+  {
+    "id": "005",
+    "nombre": "Mocaccino",
+    "categoria": "Bebidas Calientes",
+    "descripcion": "Café espresso con leche, espuma y chocolate",
+    "precio": 4.00,
+    "imagen": "/imgs/Mocaccino.jpeg"
+  },
+  {
+    "id": "006",
+    "nombre": "Chocolate caliente",
+    "categoria": "Bebidas Calientes",
+    "descripcion": "Bebida cremosa hecha con cacao y leche caliente",
+    "precio": 3.25,
+    "imagen": "/imgs/ChocolateCaliente.jpg"
+  },
+  {
+    "id": "007",
+    "nombre": "Té negro",
+    "categoria": "Bebidas Calientes",
+    "descripcion": "Infusión de hojas de té negro de sabor intenso",
+    "precio": 2.25,
+    "imagen": "/imgs/TeNegro.webp"
+  },
+  {
+    "id": "008",
+    "nombre": "Té verde",
+    "categoria": "Bebidas Calientes",
+    "descripcion": "Infusión de hojas de té verde, ligera y refrescante",
+    "precio": 2.50,
+    "imagen": "/imgs/TeVerde.webp"
+  }
+]

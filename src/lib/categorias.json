@@ -1,0 +1,43 @@
+[
+    {
+        "id":"001",
+        "categoria":"Bebidas Calientes",
+        "imagen":"/imgs/bebidaCaliente.jpg"
+    },
+    {
+        "id":"002",
+        "categoria":"Bebidas Heladas",
+        "imagen":"/imgs/bebidaFria.webp"
+    },
+    {
+        "id":"003",
+        "categoria":"Repostería",
+        "imagen":"/imgs/repoesteria.webp"
+    },
+    {
+        "id":"004",
+        "categoria":"Desayunos",
+        "imagen":"/imgs/desayunos.webp"
+    },
+    {
+        "id":"005",
+        "categoria":"Almuerzos",
+        "imagen":"/imgs/Almuerzos.jpg"
+    },
+    {
+        "id":"006",
+        "categoria":"Cenas",
+        "imagen":"/imgs/cenas.webp"
+    },
+    {
+        "id":"007",
+        "categoria":"Helados",
+        "imagen":"/imgs/helados.webp"
+        
+    },
+    {
+        "id":"008",
+        "categoria":"General",
+        "imagen":"/imgs/general.webp"
+    }
+]
