@@ -3,15 +3,9 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import HeaderComponet from "@/Components/headerComponent/Page";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+
+
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -25,19 +19,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`bg-gray-300`}
-      >
+      <body className="bg-gray-300 overflow-x-hidden w-full min-h-screen flex flex-col items-center">
         <header>
           <HeaderComponet />
         </header>
-        <main>
-
-        {children}
-        </main>
-        <footer>
-
-        </footer>
+        <main className="w-full max-w-screen-lg px-2 flex-1">{children}</main>
+        <footer></footer>
       </body>
     </html>
   );
